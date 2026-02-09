@@ -1,3 +1,7 @@
+# ai-waf-research
+
+Developed by **MOATAZQ24**
+
 # Digital Forensics & Incident Response (DFIR): Windows Attack Simulation
 
 This repository contains a comprehensive set of resources, reports, and scripts focused on **Digital Forensics and Incident Response (DFIR)**. The project documents a simulated cyberattack on a Windows environment, detailing the methodology for evidence collection, artifact analysis, and reporting.
@@ -55,6 +59,6 @@ This research is for educational and ethical security purposes only. All simulat
 
 ---
 
-## 🎓 Author
+## 🎓 Developer
 **Moataz Qasem**  
 Cybersecurity Professional | DFIR Researcher
